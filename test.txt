@@ -1,0 +1,4 @@
+adminToken = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyY2ZkOTRkMjliZTBmOTAyYWY0YzQ1MyIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY1Nzc4ODg4MH0.MFiMwZqBL8vcGhdn-nYNtYgQAaQyVm1Xh5Vcz0YlQOc
+
+regularToken = 
+
